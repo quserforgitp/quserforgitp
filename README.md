@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **open source projects like BeEF**
 
-- 👨‍💻 All of my projects are available at [https://heiios-personal-portfolio.com]([https://yettocome.com](https://quserforgitp.github.io/personal-portfolio/)
+- 👨‍💻 All of my projects are available at [https://heiios-personal-portfolio.com]([https://yettocome.com](https://quserforgitp.github.io/personal-portfolio/)]
 
 - 📝 I regularly write articles on [https://yettocome.com](https://yettocome.com)
 
