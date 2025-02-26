@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Helios Barrera Hernández</h1>
-<h3 align="center">A professional Full-stack developer from México</h3>
+<h3 align="center">A professional Web Full-stack Developer & QA Engineer from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quserforgitp&label=Profile%20views&color=0e75b6&style=flat" alt="quserforgitp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quserforgitp" alt="quserforgitp" /></a> </p>
 
-- 🔭 I’m currently working on **my personal projects**
+- 🔭 I’m currently working on **Freelance Projects**
 
-- 🌱 I’m currently learning **React, NodeJS Express, Java SpringBoot, MUI**
+- 🌱 I’m currently learning **React, NodeJS Express, Java SpringBoot**
 
 - 👯 I’m looking to collaborate on **any project that has to do with the field of web technologies**
 
