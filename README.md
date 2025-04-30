@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://media.licdn.com/dms/image/v2/D5616AQHwej4r8BtuMg/profile-displaybackgroundimage-shrink_350_1400/B56ZaFSulPHsAc-/0/1745993001860?e=1751500800&v=beta&t=6nkHHeMOmm_c5ZfXQ-qjQ4L5BsLWt2DR7kuOvtB3bsU" width="800"  height= "300" alt="Helios Barrera Hernández - QA Engineer - Full Stack Web Developer"/>
+</div>
 <h1 align="left">Hello World! I'm Helios 👋</h1>
 <h3 align="left">A professional💻 Full-stack Web Developer & QA Engineer 🔍🐛</h3>
 
