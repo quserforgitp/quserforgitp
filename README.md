@@ -125,15 +125,15 @@
 ---
 
 ### 📊 Recent Projects
-1. **Urban.Scooter – QA Testing and Documentation Project (API, Web, and Mobile)**  
+1. **[Urban.Scooter – QA Testing and Documentation Project (API, Web, and Mobile)](https://docs.google.com/spreadsheets/d/16jld4AIgAuuir22pEk3yM15gyhMQTwTC/edit?usp=drive_link&ouid=104254236277249666382&rtpof=true&sd=true)**  
    - **Tools Used:** Python, Postman, Selenium, JIRA, API Testing, Manual Testing, Automated Testing.  
    - **Summary:** Led and performed both manual and automated tests across various platforms (API, Web, and Mobile). Documented all test results and optimized the testing process. efficiency.
    
-2. **Urban.Routes – Automated Testing of Taxi Request Process**  
+2. **[Urban.Routes – Automated Testing of Taxi Request Process](https://github.com/quserforgitp/qa-project-Urban-Routes-es)**  
    - **Tools Used:** Selenium, Postman, Pytest, API Testing, Automated Testing.  
    - **Summary:** Developed automated tests to validate the taxi request flow in a Web app, improving the reliability and response time of key processes.
 
-3. **Automated Testing for the Urban Grocers API – User Kit Creation**  
+3. **[Automated Testing for the Urban Grocers API – User Kit Creation](https://github.com/quserforgitp/qa-project-Urban-Grocers-app-es)**  
    - **Tools Used:** Postman, API Testing, Automated Testing, SQL.
    - **Summary:** Developed and executed a comprehensive set of automated tests to ensure the proper functioning of the API for an online grocery platform, ensuring data integrity.
 
