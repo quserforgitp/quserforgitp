@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://media.licdn.com/dms/image/v2/D5616AQHwej4r8BtuMg/profile-displaybackgroundimage-shrink_350_1400/B56ZaFSulPHsAc-/0/1745993001860?e=1751500800&v=beta&t=6nkHHeMOmm_c5ZfXQ-qjQ4L5BsLWt2DR7kuOvtB3bsU" width="800"  height= "300" alt="Helios Barrera Hernández - QA Engineer - Full Stack Web Developer"/>
+  <img decoding="async" src="https://media.licdn.com/dms/image/v2/D4E16AQECexh9S37xbw/profile-displaybackgroundimage-shrink_350_1400/B4EZai.KaZHkAY-/0/1746490927390?e=1752105600&v=beta&t=q6U3xqA_vVjF5gj90O_PzYBUGLSW-NbHWlbjPu3rj60" width="800"  height= "200" alt="Helios Barrera Hernández - QA Engineer - Full Stack Web Developer"/>
 </div>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/heliosbarrera-qaengineer/">
